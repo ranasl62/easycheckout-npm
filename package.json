@@ -10,7 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/ranasl62/easycheckout-npm.git"
   },
-  "keywords": [],
+  "keywords": [
+    "SSLCommerz",
+    "EasyCheckout",
+    "SSLCommerz popup"
+  ],
   "bugs": {
     "url": "https://github.com/ranasl62/easycheckout-npm/issues"
   },

@@ -1,7 +1,7 @@
 ### Installation
 
 ```
-npm i sslcommerz
+npm i easycheckout
 
 ```
 
