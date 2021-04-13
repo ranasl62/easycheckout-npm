@@ -1,6 +1,6 @@
 {
   "name": "easycheckout",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "SSL Commerz Frontend",
   "main": "index.js",
   "scripts": {
